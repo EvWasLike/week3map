@@ -1,0 +1,20 @@
+body {
+	font-family: verdana;
+}
+.headline {
+	font-size: 32px;
+}
+
+.byline {
+	font-size: 20px;
+	font-style: italic;
+}
+
+.image {
+	float: right;
+}
+
+.text {
+	font-size: 14px;
+	text-align: left;
+}

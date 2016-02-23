@@ -1,0 +1,1 @@
+document.write("Content created using JavaScript");
